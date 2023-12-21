@@ -1,0 +1,6 @@
+node_modules
+.env
+authorChannelCounts.json
+authorCount.json
+config.json
+count.json

@@ -1,0 +1,57 @@
+{
+  "channels": [
+    {
+      "channelID": "1187382677314220042",
+      "channelName": "test forum",
+      "creator": "noahbeij",
+      "count": {
+        "noahbeij": 10,
+        "cs-feedback-collector#3813": 3
+      },
+      "id": 32
+    },
+    {
+      "channelID": "1187398852513386556",
+      "channelName": "ashfasdjf",
+      "creator": "noahbeij",
+      "count": {
+        "noahbeij": 21,
+        "cs-feedback-collector#3813": 13,
+        "MEE6#4876": 1
+      },
+      "id": 33
+    },
+    {
+      "channelID": "1187398099820355656",
+      "channelName": "yees",
+      "creator": "noahbeij",
+      "count": {
+        "noahbeij": 24,
+        "cs-feedback-collector#3813": 4
+      },
+      "id": 34
+    },
+    {
+      "channelID": "1187425193346486404",
+      "channelName": "making a new forum post 🔥",
+      "creator": "boopcatt",
+      "count": {
+        "noahbeij": 3,
+        "cs-feedback-collector#3813": 1,
+        "boopcatt": 1
+      },
+      "id": 35
+    },
+    {
+      "channelID": "1141391771734134895",
+      "channelName": "test",
+      "creator": "noahbeij",
+      "count": {
+        "noahbeij": 80,
+        "cs-feedback-collector#3813": 17,
+        "Maki#4920": 2
+      },
+      "id": 36
+    }
+  ]
+}
